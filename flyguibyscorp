@@ -67,7 +67,7 @@ TextLabel.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
 TextLabel.Position = UDim2.new(0.469327301, 0, 0, 0)
 TextLabel.Size = UDim2.new(0, 100, 0, 28)
 TextLabel.Font = Enum.Font.SourceSans
-TextLabel.Text = "Scorpion Fly"
+TextLabel.Text = "Полет by scorp"
 TextLabel.TextColor3 = Color3.new(0, 255, 0) 
 TextLabel.TextScaled = true
 TextLabel.TextSize = 13.250
@@ -115,7 +115,7 @@ closebutton.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
 closebutton.Font = "SourceSans"
 closebutton.Size = UDim2.new(0, 45, 0, 28)
 closebutton.Text = "Закрыть гуи"
-closebutton.TextSize = 30
+closebutton.TextSize = 10
 closebutton.Position =  UDim2.new(0, 0, -1, 27)
 
 mini.Name = "minimize"
@@ -168,7 +168,7 @@ Duration = 30;
 game:GetService("StarterGui"):SetCore("SendNotification", { 
  Title = "Scorpion softare";
  Text = "С НОВЫМ ГОДОМ ДОРОГИЕ СКРИПТЕРЫ!!☃️";
- Icon = "rbxthumb://type=Asset&id=11935866652&w=150&h=150"})
+ Icon = "rbxthumb://type=Asset&id=15829195606&w=150&h=150"})
 Duration = 30;
 
 Frame.Active = true -- main = gui
